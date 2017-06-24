@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="hueason-store-common" />
+        <module name="hueason-store-console" />
+        <module name="hueason-store-dao" />
+        <module name="hueason-store-interface" />
+        <module name="hueason-store-login" />
+        <module name="hueason-store-pojo" />
+        <module name="hueason-store-portal" />
+        <module name="hueason-store-service-buyer" />
+        <module name="hueason-store-service-cms" />
+        <module name="hueason-store-service-product" />
+        <module name="hueason-store-service-solr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hueason-store" target="1.5" />
+      <module name="hueason-store-common" target="1.5" />
+      <module name="hueason-store-console" target="1.5" />
+      <module name="hueason-store-dao" target="1.5" />
+      <module name="hueason-store-interface" target="1.5" />
+      <module name="hueason-store-login" target="1.5" />
+      <module name="hueason-store-pojo" target="1.5" />
+      <module name="hueason-store-portal" target="1.5" />
+      <module name="hueason-store-service-buyer" target="1.5" />
+      <module name="hueason-store-service-cms" target="1.5" />
+      <module name="hueason-store-service-product" target="1.5" />
+      <module name="hueason-store-service-solr" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

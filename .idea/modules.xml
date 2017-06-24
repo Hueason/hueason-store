@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hueason-store.iml" filepath="$PROJECT_DIR$/hueason-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-common/hueason-store-common.iml" filepath="$PROJECT_DIR$/hueason-store-common/hueason-store-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-console/hueason-store-console.iml" filepath="$PROJECT_DIR$/hueason-store-console/hueason-store-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-dao/hueason-store-dao.iml" filepath="$PROJECT_DIR$/hueason-store-dao/hueason-store-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-interface/hueason-store-interface.iml" filepath="$PROJECT_DIR$/hueason-store-interface/hueason-store-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-login/hueason-store-login.iml" filepath="$PROJECT_DIR$/hueason-store-login/hueason-store-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-pojo/hueason-store-pojo.iml" filepath="$PROJECT_DIR$/hueason-store-pojo/hueason-store-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-portal/hueason-store-portal.iml" filepath="$PROJECT_DIR$/hueason-store-portal/hueason-store-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-service-buyer/hueason-store-service-buyer.iml" filepath="$PROJECT_DIR$/hueason-store-service-buyer/hueason-store-service-buyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-service-cms/hueason-store-service-cms.iml" filepath="$PROJECT_DIR$/hueason-store-service-cms/hueason-store-service-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-service-product/hueason-store-service-product.iml" filepath="$PROJECT_DIR$/hueason-store-service-product/hueason-store-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hueason-store-service-solr/hueason-store-service-solr.iml" filepath="$PROJECT_DIR$/hueason-store-service-solr/hueason-store-service-solr.iml" />
+    </modules>
+  </component>
+</project>

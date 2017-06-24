@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hueason-store:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hueason-store.war">
+      <element id="artifact" artifact-name="hueason-store:war exploded" />
+    </root>
+  </artifact>
+</component>
