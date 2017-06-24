@@ -1,0 +1,20 @@
+# dubbo
+dubbo:
+  application:
+    name: hueason-store-console
+    registry:
+      address: 192.168.200.129:2181
+      protocol: zookeeper
+    annotation:
+      package: com.hueason.console.controller
+
+server:
+  port: 8088
+
+spring:
+  thymeleaf:
+    cache: false
+
+
+# swagger2
+swagger2.package: com.hueason.console.controller
