@@ -36,18 +36,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hueason-store" target="1.5" />
-      <module name="hueason-store-common" target="1.5" />
-      <module name="hueason-store-console" target="1.5" />
-      <module name="hueason-store-dao" target="1.5" />
-      <module name="hueason-store-interface" target="1.5" />
-      <module name="hueason-store-login" target="1.5" />
-      <module name="hueason-store-pojo" target="1.5" />
-      <module name="hueason-store-portal" target="1.5" />
-      <module name="hueason-store-service-buyer" target="1.5" />
-      <module name="hueason-store-service-cms" target="1.5" />
-      <module name="hueason-store-service-product" target="1.5" />
-      <module name="hueason-store-service-solr" target="1.5" />
+      <module name="hueason-store" target="1.8" />
+      <module name="hueason-store-common" target="1.8" />
+      <module name="hueason-store-console" target="1.8" />
+      <module name="hueason-store-dao" target="1.8" />
+      <module name="hueason-store-interface" target="1.8" />
+      <module name="hueason-store-login" target="1.8" />
+      <module name="hueason-store-pojo" target="1.8" />
+      <module name="hueason-store-portal" target="1.8" />
+      <module name="hueason-store-service-buyer" target="1.8" />
+      <module name="hueason-store-service-cms" target="1.8" />
+      <module name="hueason-store-service-product" target="1.8" />
+      <module name="hueason-store-service-solr" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

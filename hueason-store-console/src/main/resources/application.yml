@@ -2,11 +2,15 @@
 dubbo:
   application:
     name: hueason-store-console
-    registry:
-      address: 192.168.200.129:2181
-      protocol: zookeeper
-    annotation:
-      package: com.hueason.console.controller
+  registry:
+#    address: N/A
+    address: 192.168.126.1:2181
+    protocol: zookeeper
+  annotation:
+    package: com.hueason.console.controller
+  consumer:
+    timeout: 6000
+    check: false
 
 server:
   port: 8088
@@ -14,7 +18,10 @@ server:
 spring:
   thymeleaf:
     cache: false
-
+    http:
+      multipart:
+        maxFileSize: 10Mb
+        maxRequestSize: 10Mb
 
 # swagger2
 swagger2.package: com.hueason.console.controller

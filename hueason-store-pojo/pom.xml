@@ -11,5 +11,11 @@
 
     <artifactId>hueason-store-pojo</artifactId>
 
-
+<dependencies>
+    <dependency>
+        <groupId>com.hueason</groupId>
+        <artifactId>hueason-store-common</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+</dependencies>
 </project>

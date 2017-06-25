@@ -11,5 +11,11 @@
 
     <artifactId>hueason-store-portal</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.hueason</groupId>
+            <artifactId>hueason-store-interface</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

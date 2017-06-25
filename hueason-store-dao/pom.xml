@@ -11,5 +11,12 @@
 
     <artifactId>hueason-store-dao</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.hueason</groupId>
+            <artifactId>hueason-store-pojo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
